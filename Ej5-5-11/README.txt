@@ -1,0 +1,2 @@
+En esta práctica se va a utlizar el método addEventListener para leer los cambios que se realicen en un campo de texto de un formulario, de forma que a continuación puedan escribirse en otra parte de la página.
+Para ello, se escribirá en HTML un formulario con un campo de texto, y un código JavaScript que consiga que según un usuario vaya escribiendo en el campo de texto, lo mismo que escribe vaya mostrándose en otra parte de la página.
